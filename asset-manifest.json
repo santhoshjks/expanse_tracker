@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expanse_tracker/static/css/main.658025bf.css",
+    "main.js": "/expanse_tracker/static/js/main.a25fd718.js",
+    "index.html": "/expanse_tracker/index.html",
+    "main.658025bf.css.map": "/expanse_tracker/static/css/main.658025bf.css.map",
+    "main.a25fd718.js.map": "/expanse_tracker/static/js/main.a25fd718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.658025bf.css",
+    "static/js/main.a25fd718.js"
+  ]
+}
